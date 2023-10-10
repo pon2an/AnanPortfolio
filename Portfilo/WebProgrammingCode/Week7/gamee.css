@@ -1,0 +1,73 @@
+body{
+    background-color: #fc9201;
+    text-align: center;
+}
+legend{
+    font-size: 30px;
+    color: rgb(255, 248, 238);
+    font-style: san;
+    text-align: center;
+    background-color: #0191f2;
+    border-radius:  100px;
+    padding: 2%;
+}
+#game-container {
+	margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#game-layer {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 248, 238);
+    border: 5px solid #0191f2;
+    border-radius:  60px;
+}
+
+.square {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    /* border: 3px solid black; */
+}
+
+.red{
+    background-color: rgb(199, 70, 70); 
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
+.blue{
+    background-color: rgb(47, 47, 199); 
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
+
+.green{
+    background-color: rgb(65, 138, 65); 
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
+fieldset{
+    color: rgb(255, 252, 248);
+    font-size: 130%;
+    border: 3px solid #0191f2;
+
+}
+button{
+    background-color: #0191f2;
+    width: 50px;
+    height: 25px;
+    border-radius:  60px;
+    color: rgb(255, 248, 238);
+
+}
+select{
+    background-color:#0191f2;
+    border-radius:  60px;
+    color: rgb(255, 248, 238);
+}

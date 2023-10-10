@@ -1,0 +1,48 @@
+body{
+    background-color: #dc7a64;
+    text-align: center;
+}
+hr{
+    background-color: indigo;
+    height: 5px;
+    border: solid;
+}
+#topic1{
+    background-color: bisque;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 60px;
+    color: rgb(74, 20, 20);
+    border-radius:  100px;
+}
+#comment1{
+    background-color: bisque;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 60px;
+    color:  rgb(74, 20, 20);
+    border-radius:  100px;
+}
+#comment2{
+    background-color: bisque;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 60px;
+    color:  rgb(74, 20, 20);
+    border-radius:  100px;
+}
+textarea{
+    background-color: indigo;
+    text-align: center;
+    font-size: 30px;
+    color: bisque;
+}

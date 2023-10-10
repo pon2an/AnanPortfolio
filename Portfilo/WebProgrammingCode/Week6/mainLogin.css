@@ -1,0 +1,13 @@
+body{
+    background-color: #dc7a64;
+    text-align: center;
+}
+legend{
+    font-size: 0px;
+    color: rgb(74, 20, 20);
+    font-style: oblique;
+    text-align: center;
+    background-color: bisque;
+    border-radius:  100px;
+    padding: 1%;
+}
